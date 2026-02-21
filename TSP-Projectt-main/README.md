@@ -5,7 +5,7 @@
 **Encadrant :** Prof. MESTARI  
 
 ## 👥 Réalisé par :
-* **Timourti Sanae**
+* **Timourti Sana**
 * **Misbah Kaoutar**
 * **Essayouti Atiqa**
 
